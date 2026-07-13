@@ -1,0 +1,202 @@
+id,name,city,postcode,country_code,latitude,longitude,operator,network,socket_type,capacity,power_kw,is_operational,last_updated
+1,EV Station 1,Munich,13278,DE,48.22662,11.477957,Ionity,EnBW,Type2+CCS,3,150,False,2026-01-10
+2,EV Station 2,Munich,38657,DE,48.023064,11.620807,Recharge,Ionity,Type2+CCS,14,22,False,2026-05-18
+3,EV Station 3,Berlin,30926,DE,52.599256,13.3361,Ionity,Ionity,CHAdeMO,4,11,False,2026-01-21
+4,EV Station 4,Cologne,89131,DE,50.835808,6.77738,Allego,Roaming,Type2,13,11,True,2026-06-21
+5,EV Station 5,Frankfurt,19116,DE,49.92833,8.571159,Tesla Supercharger,EnBW,CCS,4,100,True,2026-04-21
+6,EV Station 6,Hamburg,58520,DE,53.492108,10.06807,NewMotion,EnBW,Type2+CCS,6,150,True,2026-02-24
+7,EV Station 7,Leipzig,45382,DE,51.525809,12.426,Recharge,Ionity,CHAdeMO,2,22,True,2026-03-22
+8,EV Station 8,Stuttgart,18675,DE,48.654393,9.357164,NewMotion,Tesla,CCS,16,100,False,2026-02-18
+9,EV Station 9,Hamburg,42325,DE,53.647996,10.015591,NewMotion,Roaming,Schuko,19,100,True,2026-02-14
+10,EV Station 10,Dresden,21915,DE,51.152313,13.884441,Ionity,Ionity,Schuko,20,11,False,2026-04-24
+11,EV Station 11,Stuttgart,82512,DE,48.914312,8.984592,NewMotion,EnBW,Type2+CCS,9,350,True,2026-01-19
+12,EV Station 12,Leipzig,30730,DE,51.311489,12.551526,NewMotion,Tesla,Type2+CCS,6,150,True,2026-06-19
+13,EV Station 13,Frankfurt,30032,DE,50.059566,8.54462,Recharge,EnBW,Type2+CCS,11,100,True,2026-01-21
+14,EV Station 14,Stuttgart,41385,DE,48.59317,9.331204,EnBW,EnBW,Schuko,3,150,True,2026-02-25
+15,EV Station 15,Hamburg,44741,DE,53.56107,10.042638,Ionity,Roaming,CCS,10,100,True,2026-04-26
+16,EV Station 16,Dresden,25860,DE,50.949162,13.56561,EnBW,Roaming,Type2+CCS,8,150,True,2026-01-12
+17,EV Station 17,Berlin,40007,DE,52.34696,13.212565,Tesla Supercharger,EnBW,Type2+CCS,8,50,False,2026-02-27
+18,EV Station 18,Hamburg,84847,DE,53.580485,9.897199,Allego,Plugsurfing,CCS,4,11,False,2026-03-23
+19,EV Station 19,Leipzig,71213,DE,51.475535,12.191668,NewMotion,EnBW,Type2,13,350,True,2026-01-17
+20,EV Station 20,Frankfurt,34931,DE,50.124514,8.536073,Ionity,Tesla,Schuko,8,11,False,2026-05-13
+21,EV Station 21,Berlin,95477,DE,52.719713,13.534411,EnBW,Ionity,CCS,14,100,False,2026-02-22
+22,EV Station 22,Berlin,31579,DE,52.471589,13.594124,Tesla Supercharger,Plugsurfing,CHAdeMO,14,350,False,2026-02-16
+23,EV Station 23,Stuttgart,38534,DE,48.957484,9.211672,Recharge,EnBW,CHAdeMO,2,11,False,2026-05-26
+24,EV Station 24,Hamburg,17455,DE,53.734312,9.832045,Ionity,EnBW,Type2+CCS,3,350,True,2026-04-13
+25,EV Station 25,Frankfurt,85880,DE,50.147808,8.727753,Allego,Roaming,Type2+CCS,17,50,True,2026-02-20
+26,EV Station 26,Frankfurt,44814,DE,50.068314,8.748676,Tesla Supercharger,Plugsurfing,CHAdeMO,3,11,False,2026-05-28
+27,EV Station 27,Munich,19602,DE,48.145054,11.582354,Ionity,Tesla,Type2,8,50,True,2026-02-24
+28,EV Station 28,Stuttgart,90173,DE,48.963541,9.30284,Recharge,EnBW,Type2+CCS,10,350,True,2026-02-18
+29,EV Station 29,Munich,24029,DE,48.226967,11.442179,Tesla Supercharger,Roaming,CCS,11,22,True,2026-05-25
+30,EV Station 30,Stuttgart,16658,DE,48.606919,9.14943,Tesla Supercharger,EnBW,Type2,11,22,True,2026-02-24
+31,EV Station 31,Leipzig,83519,DE,51.133868,12.200098,NewMotion,Ionity,Type2+CCS,2,50,True,2026-04-14
+32,EV Station 32,Berlin,50404,DE,52.465861,13.573235,EnBW,Tesla,CCS,8,350,True,2026-03-27
+33,EV Station 33,Leipzig,91351,DE,51.429791,12.540306,Ionity,Ionity,CCS,14,11,True,2026-06-20
+34,EV Station 34,Leipzig,97806,DE,51.475626,12.4943,Tesla Supercharger,Ionity,Type2,13,11,False,2026-02-16
+35,EV Station 35,Dresden,55830,DE,50.972076,13.858138,Ionity,Ionity,Type2,7,100,True,2026-03-12
+36,EV Station 36,Stuttgart,56025,DE,48.826593,9.139871,Recharge,Tesla,Type2,4,50,True,2026-05-18
+37,EV Station 37,Berlin,24208,DE,52.558629,13.338275,Tesla Supercharger,Plugsurfing,Type2+CCS,17,11,False,2026-05-16
+38,EV Station 38,Stuttgart,15817,DE,48.853514,8.980677,Recharge,Ionity,CHAdeMO,14,11,True,2026-05-20
+39,EV Station 39,Munich,49363,DE,48.132849,11.646757,Tesla Supercharger,Plugsurfing,CHAdeMO,18,22,True,2026-04-22
+40,EV Station 40,Hamburg,90676,DE,53.577642,9.96243,EnBW,Tesla,CHAdeMO,7,100,True,2026-04-24
+41,EV Station 41,Dresden,98555,DE,50.935481,13.729274,NewMotion,Ionity,Type2,10,150,True,2026-01-17
+42,EV Station 42,Stuttgart,39444,DE,48.892625,9.038942,EnBW,Ionity,Schuko,20,11,False,2026-04-28
+43,EV Station 43,Frankfurt,60328,DE,50.107751,8.577594,NewMotion,EnBW,Type2,14,22,True,2026-06-26
+44,EV Station 44,Dresden,16582,DE,51.072962,13.906988,EnBW,Plugsurfing,CCS,15,350,True,2026-04-26
+45,EV Station 45,Leipzig,81810,DE,51.308365,12.233663,Allego,Plugsurfing,CHAdeMO,8,350,True,2026-05-25
+46,EV Station 46,Frankfurt,45992,DE,50.085949,8.765418,Ionity,Tesla,CHAdeMO,11,150,True,2026-02-14
+47,EV Station 47,Frankfurt,60205,DE,50.18758,8.762568,EnBW,Plugsurfing,Schuko,11,150,False,2026-04-11
+48,EV Station 48,Frankfurt,65069,DE,50.065791,8.787918,NewMotion,EnBW,Type2+CCS,13,100,True,2026-03-19
+49,EV Station 49,Leipzig,64921,DE,51.345288,12.463854,Recharge,Ionity,Schuko,8,50,False,2026-04-10
+50,EV Station 50,Leipzig,54057,DE,51.397549,12.489257,NewMotion,Ionity,Schuko,5,150,True,2026-04-28
+51,EV Station 51,Berlin,21003,DE,52.5771,13.25428,Allego,Ionity,Type2,9,100,True,2026-02-24
+52,EV Station 52,Cologne,54236,DE,51.034492,6.91165,Allego,Tesla,Type2,16,11,True,2026-03-17
+53,EV Station 53,Munich,95426,DE,47.946103,11.392412,Ionity,Ionity,Type2,20,22,True,2026-02-25
+54,EV Station 54,Munich,83920,DE,48.309103,11.566014,Tesla Supercharger,Tesla,CCS,20,150,True,2026-02-19
+55,EV Station 55,Munich,85849,DE,47.940271,11.504783,NewMotion,Plugsurfing,Schuko,7,11,True,2026-01-19
+56,EV Station 56,Munich,84177,DE,48.243054,11.518882,Allego,Tesla,Type2,17,350,True,2026-01-23
+57,EV Station 57,Dresden,23833,DE,51.023409,13.684875,Allego,Ionity,Schuko,6,350,True,2026-05-27
+58,EV Station 58,Dresden,70931,DE,51.02423,13.83241,Tesla Supercharger,Tesla,CCS,3,50,False,2026-02-24
+59,EV Station 59,Leipzig,54092,DE,51.14148,12.510381,Ionity,Plugsurfing,CCS,12,50,True,2026-03-18
+60,EV Station 60,Berlin,77715,DE,52.699225,13.234245,NewMotion,Plugsurfing,Schuko,18,22,False,2026-06-25
+61,EV Station 61,Dresden,12260,DE,50.887221,13.628639,NewMotion,Ionity,CHAdeMO,19,50,False,2026-05-26
+62,EV Station 62,Cologne,65771,DE,51.128653,6.980155,Tesla Supercharger,Plugsurfing,CHAdeMO,10,50,True,2026-01-16
+63,EV Station 63,Cologne,25670,DE,51.027152,7.140351,NewMotion,Ionity,CCS,7,350,False,2026-03-28
+64,EV Station 64,Stuttgart,23176,DE,48.903051,9.098499,Tesla Supercharger,Ionity,CHAdeMO,1,350,True,2026-03-11
+65,EV Station 65,Berlin,82529,DE,52.436855,13.577636,NewMotion,Plugsurfing,Type2,1,150,True,2026-04-25
+66,EV Station 66,Dresden,54657,DE,50.923745,13.560551,Allego,EnBW,Type2,13,100,True,2026-05-11
+67,EV Station 67,Hamburg,29555,DE,53.674457,10.17965,EnBW,Ionity,Type2,18,100,True,2026-05-22
+68,EV Station 68,Dresden,68028,DE,50.968941,13.77541,Allego,Tesla,Type2+CCS,20,11,True,2026-02-16
+69,EV Station 69,Stuttgart,96563,DE,48.602475,9.075946,Recharge,EnBW,CCS,1,100,False,2026-06-25
+70,EV Station 70,Stuttgart,14278,DE,48.66259,9.262782,NewMotion,Plugsurfing,Type2,8,50,True,2026-04-13
+71,EV Station 71,Frankfurt,94886,DE,49.969596,8.586253,Ionity,EnBW,Type2,6,50,True,2026-04-13
+72,EV Station 72,Dresden,49857,DE,51.129893,13.91707,Recharge,Roaming,Schuko,15,11,True,2026-04-20
+73,EV Station 73,Stuttgart,13390,DE,48.606531,9.364764,Recharge,Roaming,Type2,9,150,True,2026-02-25
+74,EV Station 74,Dresden,46458,DE,50.922596,13.774132,NewMotion,Plugsurfing,Type2,16,50,False,2026-03-20
+75,EV Station 75,Munich,31079,DE,48.061921,11.657469,Tesla Supercharger,Plugsurfing,Type2+CCS,2,100,True,2026-03-18
+76,EV Station 76,Cologne,25194,DE,51.118074,6.92167,Recharge,EnBW,Type2+CCS,15,100,True,2026-02-26
+77,EV Station 77,Cologne,91609,DE,51.032577,7.010163,EnBW,Ionity,CHAdeMO,18,22,True,2026-04-25
+78,EV Station 78,Munich,13783,DE,48.319259,11.623549,Ionity,Ionity,CHAdeMO,18,11,False,2026-01-17
+79,EV Station 79,Munich,70482,DE,48.308824,11.639084,Ionity,Plugsurfing,CHAdeMO,17,350,True,2026-04-25
+80,EV Station 80,Dresden,41946,DE,51.032715,13.597857,Ionity,Roaming,Type2+CCS,5,11,True,2026-04-20
+81,EV Station 81,Stuttgart,10336,DE,48.683136,9.099422,Recharge,Roaming,Schuko,5,100,False,2026-03-20
+82,EV Station 82,Leipzig,69682,DE,51.503141,12.517841,NewMotion,Ionity,Type2+CCS,13,22,False,2026-01-20
+83,EV Station 83,Dresden,59968,DE,51.004432,13.805476,NewMotion,Ionity,Schuko,2,22,True,2026-01-24
+84,EV Station 84,Munich,78937,DE,48.294177,11.386139,Ionity,Plugsurfing,CCS,3,100,True,2026-03-22
+85,EV Station 85,Munich,53065,DE,48.270937,11.723737,Allego,Tesla,Schuko,18,11,True,2026-02-19
+86,EV Station 86,Frankfurt,21846,DE,50.083589,8.519377,NewMotion,EnBW,Schuko,6,350,True,2026-01-11
+87,EV Station 87,Cologne,17355,DE,50.847347,6.909936,Ionity,Ionity,Type2+CCS,14,150,True,2026-02-15
+88,EV Station 88,Munich,89887,DE,48.278336,11.627884,Ionity,Plugsurfing,Type2+CCS,5,22,False,2026-06-18
+89,EV Station 89,Dresden,43466,DE,51.116736,13.899563,Allego,Tesla,Type2+CCS,6,11,False,2026-03-28
+90,EV Station 90,Stuttgart,93746,DE,48.954812,9.256125,Allego,Tesla,CCS,13,100,True,2026-02-22
+91,EV Station 91,Cologne,85341,DE,50.848349,7.039712,EnBW,Plugsurfing,CHAdeMO,1,150,True,2026-05-25
+92,EV Station 92,Stuttgart,40162,DE,48.812826,9.120928,NewMotion,Ionity,Type2+CCS,9,350,True,2026-06-13
+93,EV Station 93,Berlin,50492,DE,52.635444,13.213346,Tesla Supercharger,Ionity,Type2,10,50,False,2026-02-16
+94,EV Station 94,Hamburg,80701,DE,53.700584,9.946343,Recharge,Tesla,CCS,9,100,True,2026-06-20
+95,EV Station 95,Munich,71385,DE,48.315157,11.436303,Ionity,Plugsurfing,Type2+CCS,12,11,False,2026-01-18
+96,EV Station 96,Munich,69609,DE,48.077434,11.679605,Tesla Supercharger,Roaming,Schuko,12,11,True,2026-04-10
+97,EV Station 97,Cologne,89964,DE,50.818547,6.785287,Allego,Tesla,Schuko,4,22,True,2026-01-19
+98,EV Station 98,Dresden,25220,DE,50.888877,13.894904,Ionity,Plugsurfing,Schuko,12,350,False,2026-05-14
+99,EV Station 99,Leipzig,95841,DE,51.169609,12.365739,Allego,Tesla,Type2,12,22,False,2026-04-17
+100,EV Station 100,Cologne,23022,DE,51.122371,6.906934,NewMotion,Tesla,Type2,13,50,True,2026-01-24
+101,EV Station 101,Munich,96870,DE,48.014842,11.635797,EnBW,EnBW,CHAdeMO,8,22,True,2026-01-27
+102,EV Station 102,Frankfurt,86858,DE,49.996381,8.827878,Tesla Supercharger,Ionity,Type2+CCS,1,50,True,2026-02-27
+103,EV Station 103,Stuttgart,32871,DE,48.613971,9.326579,Ionity,EnBW,CHAdeMO,8,150,True,2026-01-15
+104,EV Station 104,Stuttgart,16868,DE,48.620703,9.148384,EnBW,EnBW,Schuko,15,50,True,2026-04-26
+105,EV Station 105,Frankfurt,90623,DE,49.927346,8.793291,NewMotion,Roaming,CHAdeMO,15,350,True,2026-01-25
+106,EV Station 106,Leipzig,65872,DE,51.404439,12.366108,Allego,EnBW,Type2,11,150,True,2026-01-14
+107,EV Station 107,Stuttgart,91830,DE,48.823231,9.199343,Tesla Supercharger,Plugsurfing,Type2+CCS,17,50,False,2026-05-23
+108,EV Station 108,Munich,24996,DE,48.271117,11.640367,Recharge,Ionity,Schuko,15,22,False,2026-03-24
+109,EV Station 109,Leipzig,64524,DE,51.421845,12.295019,Tesla Supercharger,Tesla,CHAdeMO,5,350,False,2026-01-12
+110,EV Station 110,Munich,22219,DE,48.102751,11.677836,Tesla Supercharger,Ionity,Type2+CCS,2,150,True,2026-06-13
+111,EV Station 111,Leipzig,56346,DE,51.479443,12.546452,Allego,EnBW,CHAdeMO,20,50,True,2026-01-28
+112,EV Station 112,Frankfurt,30280,DE,50.172695,8.569698,EnBW,Tesla,Type2+CCS,12,11,True,2026-05-17
+113,EV Station 113,Leipzig,83526,DE,51.519819,12.497371,Recharge,Roaming,Type2,20,350,True,2026-01-15
+114,EV Station 114,Stuttgart,50499,DE,48.938615,9.120409,Ionity,Ionity,Type2+CCS,13,11,True,2026-06-10
+115,EV Station 115,Munich,79531,DE,48.016053,11.547933,Tesla Supercharger,Ionity,CHAdeMO,10,350,True,2026-05-12
+116,EV Station 116,Berlin,30392,DE,52.382964,13.447135,NewMotion,EnBW,CHAdeMO,15,350,False,2026-04-24
+117,EV Station 117,Leipzig,45804,DE,51.216228,12.374939,Tesla Supercharger,Plugsurfing,Type2,10,350,False,2026-05-19
+118,EV Station 118,Berlin,38903,DE,52.478105,13.43973,EnBW,Ionity,CHAdeMO,7,22,True,2026-03-20
+119,EV Station 119,Munich,11013,DE,48.128954,11.552262,Ionity,Plugsurfing,Type2+CCS,8,150,True,2026-01-22
+120,EV Station 120,Berlin,67176,DE,52.327497,13.568465,Tesla Supercharger,Roaming,Schuko,19,100,False,2026-03-13
+121,EV Station 121,Leipzig,12733,DE,51.51648,12.238749,Recharge,Plugsurfing,CHAdeMO,3,100,True,2026-02-23
+122,EV Station 122,Leipzig,78676,DE,51.161459,12.51821,NewMotion,Tesla,CCS,11,22,True,2026-05-13
+123,EV Station 123,Frankfurt,55793,DE,50.05044,8.863289,NewMotion,Ionity,CCS,4,22,True,2026-02-15
+124,EV Station 124,Hamburg,95918,DE,53.380141,10.180517,NewMotion,Plugsurfing,Schuko,19,150,False,2026-06-28
+125,EV Station 125,Cologne,92210,DE,50.856456,6.935905,Allego,Plugsurfing,CHAdeMO,9,150,True,2026-03-26
+126,EV Station 126,Munich,50685,DE,48.114697,11.395043,Tesla Supercharger,Tesla,Type2,3,150,False,2026-04-28
+127,EV Station 127,Berlin,68947,DE,52.68362,13.428663,Ionity,Tesla,Type2+CCS,16,150,True,2026-01-24
+128,EV Station 128,Munich,55015,DE,48.322954,11.413732,NewMotion,Ionity,Type2,8,350,False,2026-04-26
+129,EV Station 129,Hamburg,57696,DE,53.499141,9.913157,Allego,Tesla,Type2+CCS,2,350,True,2026-01-20
+130,EV Station 130,Munich,83133,DE,48.201352,11.493659,NewMotion,Roaming,CCS,11,11,True,2026-03-19
+131,EV Station 131,Leipzig,26901,DE,51.368016,12.545201,Tesla Supercharger,Roaming,Schuko,11,22,True,2026-06-23
+132,EV Station 132,Cologne,12389,DE,50.875039,6.832105,Ionity,Tesla,Schuko,7,22,True,2026-02-12
+133,EV Station 133,Stuttgart,23256,DE,48.773076,9.195908,NewMotion,Roaming,Type2,11,150,True,2026-05-22
+134,EV Station 134,Hamburg,31266,DE,53.422338,10.077138,Recharge,Ionity,Schuko,2,100,True,2026-06-17
+135,EV Station 135,Dresden,90031,DE,50.963971,13.839415,Allego,Ionity,Type2+CCS,8,50,False,2026-02-21
+136,EV Station 136,Dresden,70513,DE,51.157775,13.85125,Recharge,Roaming,Schuko,6,22,True,2026-03-11
+137,EV Station 137,Dresden,58655,DE,51.071816,13.581036,Recharge,EnBW,CHAdeMO,3,22,True,2026-04-26
+138,EV Station 138,Hamburg,67340,DE,53.386685,10.164202,Allego,Tesla,Type2,14,11,False,2026-05-21
+139,EV Station 139,Frankfurt,60615,DE,50.30781,8.629965,EnBW,Tesla,Type2,11,22,True,2026-01-19
+140,EV Station 140,Dresden,28191,DE,51.153536,13.727644,Recharge,EnBW,Type2,1,50,True,2026-02-27
+141,EV Station 141,Leipzig,24573,DE,51.440469,12.265056,EnBW,EnBW,CCS,14,350,False,2026-01-13
+142,EV Station 142,Dresden,88215,DE,51.064422,13.792782,Recharge,Ionity,CCS,10,100,True,2026-05-21
+143,EV Station 143,Frankfurt,84798,DE,50.076627,8.745749,EnBW,Roaming,CHAdeMO,3,150,True,2026-04-25
+144,EV Station 144,Berlin,93318,DE,52.474753,13.349321,NewMotion,EnBW,CHAdeMO,3,50,True,2026-06-13
+145,EV Station 145,Cologne,27486,DE,50.747734,6.978405,NewMotion,Ionity,Schuko,16,350,True,2026-02-12
+146,EV Station 146,Dresden,14847,DE,50.967377,13.557523,Ionity,EnBW,CHAdeMO,10,150,False,2026-05-25
+147,EV Station 147,Stuttgart,14799,DE,48.871316,9.056441,Tesla Supercharger,EnBW,CHAdeMO,9,11,True,2026-04-22
+148,EV Station 148,Dresden,60678,DE,50.985615,13.614727,NewMotion,Plugsurfing,CHAdeMO,17,50,True,2026-06-23
+149,EV Station 149,Munich,66440,DE,48.170981,11.708937,Recharge,Tesla,CHAdeMO,4,11,True,2026-06-19
+150,EV Station 150,Stuttgart,68447,DE,48.811049,9.150446,NewMotion,Plugsurfing,CHAdeMO,15,11,True,2026-05-23
+151,EV Station 151,Stuttgart,93816,DE,48.962011,9.359162,EnBW,Plugsurfing,CHAdeMO,17,350,True,2026-01-14
+152,EV Station 152,Dresden,14561,DE,50.900492,13.634398,NewMotion,Tesla,CHAdeMO,13,150,True,2026-05-14
+153,EV Station 153,Dresden,58623,DE,50.998805,13.845234,Recharge,Ionity,Type2+CCS,12,100,True,2026-06-18
+154,EV Station 154,Frankfurt,24869,DE,49.920365,8.554419,Recharge,Plugsurfing,Type2+CCS,4,50,True,2026-06-24
+155,EV Station 155,Frankfurt,90199,DE,50.024231,8.846592,Allego,Ionity,Type2,5,11,False,2026-02-24
+156,EV Station 156,Munich,99381,DE,48.317024,11.77463,NewMotion,Tesla,Type2,18,150,True,2026-03-15
+157,EV Station 157,Hamburg,57381,DE,53.553502,9.848545,Ionity,Ionity,CCS,16,11,True,2026-05-28
+158,EV Station 158,Cologne,71263,DE,51.051465,6.980659,Recharge,EnBW,Type2,10,100,False,2026-05-23
+159,EV Station 159,Leipzig,85353,DE,51.1595,12.558952,NewMotion,EnBW,Schuko,15,350,True,2026-02-27
+160,EV Station 160,Hamburg,26912,DE,53.523047,10.164285,EnBW,EnBW,Type2+CCS,5,50,True,2026-02-20
+161,EV Station 161,Frankfurt,55353,DE,50.288993,8.687559,Tesla Supercharger,EnBW,CHAdeMO,7,350,True,2026-02-19
+162,EV Station 162,Munich,75873,DE,48.186395,11.616723,Recharge,Ionity,CCS,20,350,True,2026-05-11
+163,EV Station 163,Berlin,20646,DE,52.338185,13.456581,Recharge,Tesla,CCS,19,100,True,2026-04-27
+164,EV Station 164,Stuttgart,94136,DE,48.95266,9.173178,NewMotion,Plugsurfing,CHAdeMO,15,11,True,2026-02-24
+165,EV Station 165,Leipzig,73471,DE,51.315777,12.306077,Ionity,Tesla,CHAdeMO,12,100,True,2026-03-26
+166,EV Station 166,Munich,51827,DE,48.026695,11.429009,Allego,Ionity,CCS,4,11,True,2026-04-23
+167,EV Station 167,Frankfurt,30932,DE,50.235391,8.853501,NewMotion,Tesla,CCS,6,100,False,2026-04-19
+168,EV Station 168,Dresden,13037,DE,50.88602,13.697297,Allego,Ionity,CCS,19,50,True,2026-01-19
+169,EV Station 169,Dresden,88317,DE,51.202936,13.801704,Allego,Tesla,Type2+CCS,1,11,False,2026-02-18
+170,EV Station 170,Cologne,62855,DE,50.876375,6.920233,Recharge,Roaming,CCS,12,150,True,2026-01-22
+171,EV Station 171,Dresden,82070,DE,50.961888,13.935636,NewMotion,Roaming,Type2,5,11,False,2026-03-20
+172,EV Station 172,Cologne,28909,DE,50.809623,6.963649,Recharge,EnBW,Type2,2,22,True,2026-04-26
+173,EV Station 173,Dresden,29521,DE,51.092504,13.746202,Tesla Supercharger,Roaming,CHAdeMO,6,100,True,2026-05-20
+174,EV Station 174,Dresden,83783,DE,50.969916,13.8663,Tesla Supercharger,Tesla,Type2,14,150,True,2026-06-10
+175,EV Station 175,Dresden,44803,DE,51.236828,13.853162,Recharge,Roaming,CCS,2,150,False,2026-02-26
+176,EV Station 176,Leipzig,29369,DE,51.458665,12.266879,Recharge,EnBW,CCS,1,100,True,2026-04-14
+177,EV Station 177,Leipzig,36724,DE,51.294151,12.479989,Allego,EnBW,CCS,17,22,True,2026-06-25
+178,EV Station 178,Leipzig,51124,DE,51.512674,12.353865,Recharge,Tesla,Type2+CCS,12,350,True,2026-05-25
+179,EV Station 179,Frankfurt,42311,DE,50.021603,8.5994,Tesla Supercharger,Tesla,CCS,16,50,False,2026-03-27
+180,EV Station 180,Stuttgart,47721,DE,48.61875,9.250649,Allego,Plugsurfing,CHAdeMO,5,50,True,2026-03-12
+181,EV Station 181,Cologne,67983,DE,50.992389,7.058935,Ionity,Ionity,Type2+CCS,9,150,True,2026-02-13
+182,EV Station 182,Frankfurt,41779,DE,49.930306,8.842074,Ionity,Ionity,Type2,4,100,True,2026-06-25
+183,EV Station 183,Munich,99285,DE,48.238306,11.382073,Recharge,Ionity,Schuko,16,100,True,2026-03-20
+184,EV Station 184,Stuttgart,94659,DE,48.593665,9.28749,NewMotion,Roaming,CCS,18,350,True,2026-02-23
+185,EV Station 185,Hamburg,14763,DE,53.748869,9.958798,Allego,Ionity,CHAdeMO,2,11,True,2026-05-13
+186,EV Station 186,Cologne,47298,DE,50.91174,7.016525,Recharge,Plugsurfing,CCS,17,100,True,2026-02-13
+187,EV Station 187,Cologne,31298,DE,51.022448,7.019314,NewMotion,Ionity,Type2,11,50,True,2026-02-22
+188,EV Station 188,Leipzig,77538,DE,51.261171,12.330333,EnBW,Ionity,CCS,16,50,True,2026-01-18
+189,EV Station 189,Leipzig,40870,DE,51.308694,12.276798,Tesla Supercharger,Tesla,Type2+CCS,19,11,True,2026-06-21
+190,EV Station 190,Frankfurt,18142,DE,50.177114,8.666158,Ionity,Plugsurfing,Type2+CCS,10,350,True,2026-06-19
+191,EV Station 191,Cologne,90560,DE,50.81834,7.142944,Allego,Ionity,Schuko,20,50,False,2026-06-27
+192,EV Station 192,Dresden,80453,DE,51.170798,13.870241,Ionity,Roaming,Type2,17,100,True,2026-01-28
+193,EV Station 193,Munich,18094,DE,48.26151,11.741155,Ionity,Roaming,Type2+CCS,5,22,True,2026-05-24
+194,EV Station 194,Munich,99167,DE,48.012161,11.613259,EnBW,Roaming,Schuko,2,100,True,2026-05-23
+195,EV Station 195,Dresden,83912,DE,50.873095,13.724951,Tesla Supercharger,EnBW,Schuko,9,11,True,2026-05-12
+196,EV Station 196,Berlin,65534,DE,52.457812,13.225504,EnBW,EnBW,Schuko,2,50,False,2026-02-14
+197,EV Station 197,Leipzig,59081,DE,51.527143,12.322992,Allego,Plugsurfing,Type2,18,22,True,2026-01-15
+198,EV Station 198,Leipzig,79316,DE,51.180939,12.56149,EnBW,EnBW,CHAdeMO,15,350,False,2026-05-22
+199,EV Station 199,Frankfurt,42441,DE,50.09425,8.542049,Ionity,EnBW,Type2,14,150,True,2026-02-16
+200,EV Station 200,Munich,23224,DE,48.167578,11.558576,NewMotion,EnBW,CCS,2,100,False,2026-02-27
+
